@@ -15,6 +15,7 @@
 * 🔗 Other
   - LinkedIn https://www.linkedin.com/in/rizky-octavian/
   - Youtube https://www.youtube.com/channel/UCy_18uSOODhIBK0FCxdfuqg
+  - Portfolio (on progress) https://rizoct.github.io/portfolio-website/
 
 <!--
 **Rizoct/rizoct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
