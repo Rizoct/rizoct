@@ -5,9 +5,9 @@
 * 🖥 Computer Science at Bina Nusantara University Malang
 * 🔭 I’m currently intern on BBPPMPV BOE MALANG
 * ⚡ Interested in : 
-  - 💻 Desktop Programming (Delphi, Visual Basic)
-  - 📱 Mobile Apps Programming (Flutter, React Native)
-  - 🎮 Game Programming (Unity 2D, 3D, VR, AR)
+  - 💻 Desktop Apps Programming 
+  - 📱 Mobile Apps Programming 
+  - 🎮 Game Programming 
 
 ### Contact me!
 
