@@ -9,6 +9,14 @@
   - 📱 Mobile Apps Programming 
   - 🎮 Game Programming 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rizoct&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizoct&show_icons=true&theme=tokyonight">
+</p>
+
 ### Contact me!
 
 * 📧 rizky.dwipratama@binus.ac.id
@@ -17,9 +25,7 @@
   - Youtube https://www.youtube.com/channel/UCy_18uSOODhIBK0FCxdfuqg
   - Portfolio (on progress) https://rizoct.github.io/portfolio-website/
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rizoct&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
-</p>
+
 <!--
 **Rizoct/rizoct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
