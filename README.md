@@ -3,7 +3,7 @@
 #### My name is Rizky Octavian Dwipratama or Rizoct(online)
 
 * 🖥 Computer Science at Bina Nusantara University Malang
-* 🔭 I’m currently intern on BBPPMPV BOE MALANG
+* 🔭 Currently intern on BBPPMPV BOE MALANG
 * ⚡ Interested in : 
   - 💻 Desktop Apps Programming 
   - 📱 Mobile Apps Programming 
