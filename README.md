@@ -23,7 +23,7 @@
 * 🔗 Other
   - LinkedIn https://www.linkedin.com/in/rizky-octavian/
   - Youtube https://www.youtube.com/channel/UCy_18uSOODhIBK0FCxdfuqg
-  - Portfolio (on progress) https://rizoct.github.io/portfolio-website/
+  - Portfolio http://rizoctdev.me/bsStudioPortfolio/
 
 
 <!--
