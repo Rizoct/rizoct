@@ -23,7 +23,6 @@
 * 🔗 Other
   - LinkedIn https://www.linkedin.com/in/rizky-octavian/
   - Youtube https://www.youtube.com/channel/UCy_18uSOODhIBK0FCxdfuqg
-  - Portfolio http://rizoctdev.me/bsStudioPortfolio/
 
 
 <!--
