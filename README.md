@@ -2,8 +2,8 @@
 
 #### My name is Rizky Octavian Dwipratama or Rizoct(online)
 
-* 🖥 Computer Science at Bina Nusantara University Malang
-* 🔭 Currently intern on BBPPMPV BOE MALANG
+* 🖥 S1 Computer Science at Bina Nusantara University Malang
+* 🔭 Currently Freelance
 * ⚡ Interested in : 
   - 💻 Desktop Apps Programming 
   - 📱 Mobile Apps Programming 
@@ -19,7 +19,7 @@
 
 ### Contact me!
 
-* 📧 rizky.dwipratama@binus.ac.id
+* 📧 rizky.dwipratama@binus.ac.id / rizoctdev@gmail.com (primary)
 * 🔗 Other
   - LinkedIn https://www.linkedin.com/in/rizky-octavian/
   - Youtube https://www.youtube.com/channel/UCy_18uSOODhIBK0FCxdfuqg
