@@ -3,7 +3,7 @@
 #### My name is Rizky Octavian Dwipratama or Rizoct(online)
 
 * 🖥 S1 Computer Science at Bina Nusantara University Malang
-* 🔭 Currently Freelance
+* 🔭 IT Busniess Anayst in PT Tridente Berkah Abadi
 * ⚡ Interested in : 
   - 💻 Desktop Apps Programming 
   - 📱 Mobile Apps Programming 
