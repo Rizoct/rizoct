@@ -2,8 +2,8 @@
 
 #### My name is Rizky Octavian Dwipratama or Rizoct(online)
 
-* 🖥 S1 Computer Science at Bina Nusantara University Malang
-* 🔭 IT Business Anayst in PT Tridente Berkah Abadi
+* 🖥 Bachelor's Degree in Computer Science at Bina Nusantara University Malang
+* 🔭 IT Business Analyst in PT Tridente Berkah Abadi
 * ⚡ Interested in : 
   - 💻 Desktop Apps Programming 
   - 📱 Mobile Apps Programming 
